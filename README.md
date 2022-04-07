@@ -8,4 +8,4 @@ From the image of the dataframe below, here is what I see:
 - Min temp is 64 degrees F
 - Total of temperature data points is 1700
 - Average temperature is 75 degrees F
-![Resources/June_temps.png] (https://github.com/lesliemayeux/Surfs_Up_Analysis/blob/feaaabacd33b3428756d2be3653d8b424b5f8a1e/Resources/June_temps.png)
+![Resources/June_temps.png](https://github.com/lesliemayeux/Surfs_Up_Analysis/blob/feaaabacd33b3428756d2be3653d8b424b5f8a1e/Resources/June_temps.png)
